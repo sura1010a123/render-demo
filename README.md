@@ -27,18 +27,12 @@ Model predicts risk (0 or 1)
 Result is displayed instantly
 📊 Model Performance
 Best Model: Random Forest (or your model)
-Accuracy: XX%
+Accuracy: 85%
 Evaluation Metrics:
 Precision
 Recall
 F1-Score
-📁 Project Structure
-Heart-Disease-Prediction/
-│── data/
-│── model/
-│── app.py
-│── requirements.txt
-│── README.md
+
 🚀 Deployment Details
 Hosted on Render
 Continuous deployment via GitHub
